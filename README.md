@@ -161,4 +161,6 @@ Open source — feel free to fork, modify, learn
 
 ---
 
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)](https://github.com/Adarshtiwari0/Railnova/releases/latest)
+
 Built with ❤️ for Indian Railways enthusiasts and commuters.
