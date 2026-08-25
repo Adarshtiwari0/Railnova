@@ -1,3 +1,5 @@
+![CI](https://github.com/Adarshtiwari0/Railnova/actions/workflows/ci.yml/badge.svg)
+
 # RailNova
 
 **Track • Anywhere • Anytime**
