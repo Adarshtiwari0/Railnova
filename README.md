@@ -148,7 +148,6 @@ Sequence-based validation: trains only appear in "Going to X" results if their s
 ## Known Gaps
 
 - Only core utilities have unit tests; widget-level tests would be next
-- No CI/CD pipeline yet (GitHub Actions with `flutter analyze` + `flutter test`)
 - App icon still default Flutter icon (quick to replace with `flutter_launcher_icons`)
 
 ## License
